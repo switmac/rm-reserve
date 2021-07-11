@@ -2351,7 +2351,7 @@ body.is-touch .main {
 
 #intro {
   background: url("images/overlay.png"),
-    url("https://images.unsplash.com/photo-1509927083803-4bd519298ac4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    url("../../images/custom/shoes.jfif");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, bottom center;
@@ -2362,7 +2362,7 @@ body.is-touch .main {
 
 #one {
   background: url("images/overlay.png"),
-    url("https://images.unsplash.com/photo-1605089315716-64d4e9696796?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80");
+    url("../../images/custom/rings.jfif");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, center center;
@@ -2372,7 +2372,7 @@ body.is-touch .main {
 
 #two {
   background: url("images/overlay.png"),
-    url("https://images.unsplash.com/photo-1522673607200-164d1b6ce486?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
+    url("../../images/custom/chairs.jfif");
   background-size: 256px 256px, cover;
   background-attachment: fixed, fixed;
   background-position: top left, center center;
