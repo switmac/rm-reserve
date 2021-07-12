@@ -1093,7 +1093,7 @@ textarea {
 }
 
 .landscape .image img {
-  max-height: 220px;
+  max-height: 250px;
 }
 
 iframe {
@@ -2402,6 +2402,16 @@ body.is-touch .main {
   -webkit-transform: translateY(100%);
   -ms-transform: translateY(100%);
   transform: translateY(100%);
+}
+
+.map-container {
+  height: 350px;
+  margin-bottom: 30px;
+}
+
+.map-container iframe {
+  width: 100%;
+  height: 100%;
 }
 
 @media screen and (max-width: 736px) {
