@@ -2270,10 +2270,10 @@ body.is-touch .main {
 /* Footer */
 
 #footer {
-  display: -moz-flex;
+  /* display: -moz-flex;
   display: -webkit-flex;
-  display: -ms-flex;
-  display: flex;
+  display: -ms-flex; */
+  display: block;
   -moz-align-items: center;
   -webkit-align-items: center;
   -ms-align-items: center;
@@ -2429,4 +2429,13 @@ body.is-touch .main {
   #contact .box {
     padding: 1em 1em 2em 1em;
   }
+}
+
+
+.bold {
+  font-weight: 700;
+}
+
+#footer h3 {
+  margin-bottom: 10px;
 }
